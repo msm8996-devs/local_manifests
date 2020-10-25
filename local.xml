@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <!-- device Tree -->
+  <project name="msm8996-devs/android_device_zte-nubia_msm8996-common" path="device/zte-nubia/msm8996-common" remote="github" revision="lineage-17.1" />
+  <project name="msm8996-devs/android_device_zte-nubia_axon7" path="device/zte-nubia/axon7" remote="github" revision="lineage-17.1" />
+  <project name="msm8996-devs/android_device_zte-nubia_nx531j" path="device/zte-nubia/nx531j" remote="github" revision="lineage-17.1" />
+  <project name="msm8996-devs/android_vendor_zte-nubia" path="vendor/zte-nubia" remote="github" revision="lineage-17.1" />
+</manifest>
+
+
